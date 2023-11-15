@@ -1,0 +1,20 @@
+html {
+  background-image: url('space.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+	background: #E0FFFF;
+	font-size: 70px;
+	text-align: center;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-weight: 400;
+	border: 7px solid green;
+	padding: 100px 150px;
+	margin: 250px 300px;
+	border-radius: 30px;
+}
+.container{
+	margin: 0px 0px;
+	text-align: center;
+}
